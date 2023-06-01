@@ -1,7 +1,9 @@
+import Button from "src/components/Button";
+
 const HomePage = () => {
   return (
     <div>
-      <div>あああああ</div>
+      <div><Button /></div>
     </div>
   )
 }
